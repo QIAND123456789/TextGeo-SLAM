@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/lcy/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/lcy/catkin_ws/src/A-LOAM/include/**",
+        "/home/lcy/catkin_ws/src/vins-mono/VINS-Mono-master/camera_model/include/**",
+        "/home/lcy/catkin_ws/src/floam/include/**",
+        "/home/lcy/catkin_ws/src/C++study_lcy/lcy_test_ros_vscode/include/**",
+        "/home/lcy/catkin_ws/src/SC-LeGO-LOAM/SC-LeGO-LOAM/LeGO-LOAM2/include/**",
+        "/home/lcy/catkin_ws/src/lv_slam/include/**",
+        "/home/lcy/catkin_ws/src/ros_pointcloud_test/include/**",
+        "/home/lcy/catkin_ws/src/C++study_lcy/ros_test/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

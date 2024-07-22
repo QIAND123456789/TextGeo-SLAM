@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="lv_slam" type="shutdown_service.py" name="shutdown_service_node" output="screen"/>
+</launch>
